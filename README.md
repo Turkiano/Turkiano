@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Turki
 - 👀 I’m interested in building mobile, & Web Apps
-- 🌱 I’m currently learning ASP.Net Core, LINQ Queries, and EF Core.
+- 🌱 I’m currently learning ASP.Net Core, LINQ Queries, EF Core, and PostgreSQL.
 - 💞️ I’m looking to collaborate on IOT, AI projects, & Data Management (DBMS)
 - 📫 DM or email : turki.saeed.ksa@gmail.com
   
