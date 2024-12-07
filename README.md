@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript, DOM, and React
 - ✨ My backgrounds: ASP.Net Core, LINQ Queries, EF Core, PostgreSQL
 - 💞️ I’m looking to collaborate on IOT, AI projects, & Data Management (DBMS)
-- 📫 DM for collaborations, I will be happy to share my experience with you !!
+- 📫 DM for collaborations, I will be happy to share what I have left !!
   
 
 <!---
