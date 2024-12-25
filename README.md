@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Turki
 - 👀 I’m interested in building mobile, & Web Apps
-- 🌱 I’m currently learning JavaScript, DOM, and React
+- 🌱 I’m currently learning JavaScript, TypeScript, and React
 - ✨ My backgrounds: ASP.Net Core, LINQ Queries, EF Core, PostgreSQL
 - 💞️ I’m looking to collaborate on IOT, AI projects, & Data Management (DBMS)
 - 📫 DM for collaborations, I will be happy to share what I have left !!
