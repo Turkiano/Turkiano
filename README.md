@@ -3,6 +3,7 @@
   👋Hi, I’m Turki, a passionate Full-Stack Developer with a focus on building scalable and user-friendly web applications using .NET, Angular, and modern front-end tools. I enjoy clean code, solving real-world problems, and contributing to meaningful projects.
 
 🔧 Tech Stack & Tools
+
     🧠 Languages: C#, JavaScript, TypeScript, HTML/CSS  
     🧰 Frameworks: .NET Core, Angular, React  
     🗃️ Databases: PostgreSQL, Supabase  
