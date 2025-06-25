@@ -5,7 +5,7 @@
 🔧 Tech Stack & Tools
 
     🧠 Languages: C#, JavaScript, TypeScript, HTML/CSS  
-    🧰 Frameworks: .NET Core, Angular, React  
+    🧰 Frameworks: .NET Core, Ef Core, React  
     🗃️ Databases: PostgreSQL, Supabase  
     🛠️ Tools: Git, VS Code, Figma, Postman  
 
