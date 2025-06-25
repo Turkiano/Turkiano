@@ -18,7 +18,7 @@
 | ---------------------- | ----------------------------------------------------------------- | ----------------------------------------- |
 | 🛒 **Coffee Shop App** | Online ordering system with cart & admin dashboard                | `.NET`, `PostgreSQL`, `React`, `Subabase` |
 | 📊 **Budget Tracker**  | Visual monthly budget app with charts                             | `React`, `TypeScript`, `Tailwind CSS`     |
-| 🔐 **Auth API**        | Secure authentication API using JWT                               | `.NET`, `Supabase`, `Render`              |
+| 🔐 **Auth API**        | Secure authentication API using JWT                               | `.NET`, `Supabase`, `Render`, `Postman`   |
 | 📈 **MeasureIt**       | Task management tracker for productivity                          | `React`, `Tailwind CSS`, `TypeScript`     |
 | 🏥 **Clinico**         | Booking system for patients to schedule appointments with doctors | `.NET`, `PostgreSQL`, `React`, `Supabase` |
 
