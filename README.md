@@ -1,6 +1,6 @@
 🚀 Turki Saeed | Full-Stack Software Developer
 
-  👋Hi, I’m Turki, a passionate Full-Stack Developer with a focus on building scalable and user-friendly web applications using .NET, Angular, and modern front-end tools. I enjoy clean code, solving real-world problems, and contributing to meaningful projects.
+  👋Hi, I’m Turki, a passionate Full-Stack Developer with a focus on building scalable and user-friendly web applications using .NET, React, and modern front-end tools. I enjoy clean code, solving real-world problems, and contributing to meaningful projects.
 
 🔧 Tech Stack & Tools
 
