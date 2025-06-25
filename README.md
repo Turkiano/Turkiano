@@ -14,12 +14,14 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=turkiano&layout=compact&theme=radical)
 
 🧩 Featured Projects
-| Project                | Description                                         | Tech                                  |
-| ---------------------- | --------------------------------------------------  | --------------------------------------|
-| 🛒 **Coffee Shop App** | Online ordering system with cart & admin dashboard | `.NET`, `PostgreSQL`, `React`         |
-| 📊 **Budget Tracker**  | Visual monthly budget app with charts              | `React`, `TypeScript`, `Tailwind`     |
-| 🔐 **Auth API**        | Secure authentication API using JWT                | `.NET`, `Supabase`, `Render`          |
-| 📈 **MeasureIt**       | Tasks tracker mangement                            | `.React`, `TillwindCSS`, `TypeScript` |
+| Project                | Description                                                       | Tech Stack                                |
+| ---------------------- | ----------------------------------------------------------------- | ----------------------------------------- |
+| 🛒 **Coffee Shop App** | Online ordering system with cart & admin dashboard                | `.NET`, `PostgreSQL`, `React`, `Subabase` |
+| 📊 **Budget Tracker**  | Visual monthly budget app with charts                             | `React`, `TypeScript`, `Tailwind CSS`     |
+| 🔐 **Auth API**        | Secure authentication API using JWT                               | `.NET`, `Supabase`, `Render`              |
+| 📈 **MeasureIt**       | Task management tracker for productivity                          | `React`, `Tailwind CSS`, `TypeScript`     |
+| 🏥 **Clinico**         | Booking system for patients to schedule appointments with doctors | `.NET`, `PostgreSQL`, `React`, `Supabase` |
+
 
 
 
