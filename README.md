@@ -1,19 +1,21 @@
 Turki Saeed | Full-Stack Software Developer 🚀 
+--------------------------------------------------
 
   👋Hi, I’m Turki, a passionate Full-Stack Developer with a focus on building scalable and user-friendly web applications using .NET, React, and modern front-end tools. I enjoy clean code, solving real-world problems, and contributing to meaningful projects.
 
 🔧 Tech Stack & Tools
-
+---------------------------------------
     🧠 Languages: C#, JavaScript, TypeScript, HTML/CSS  
     🧰 Frameworks: .NET Core, Ef Core, React  
     🗃️ Databases: PostgreSQL, Supabase  
     🛠️ Tools: Git, VS Code, Figma, Postman  
 
 📈 GitHub Stats
-
+-----------------------------
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=turkiano&layout=compact&theme=radical)
 
 🧩 Featured Projects
+------------------------------------
 | Project                | Description                                                       | Tech Stack                                |
 | ---------------------- | ----------------------------------------------------------------- | ----------------------------------------- |
 | 🛒 **Coffee Shop App** | Online ordering system with cart & admin dashboard                | `.NET`, `PostgreSQL`, `React`, `Subabase` |
